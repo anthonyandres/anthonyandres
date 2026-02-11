@@ -23,4 +23,7 @@ jobs:
           plugin_code_load: 400
           filename: metrics.plugin.music.playlist.spotify.svg
           plugin_music: yes
+          plugin_music_token: ${{secrets.SPOTIFY_SECRET}}
           plugin_music_playlist: https://open.spotify.com/embed/playlist/6LGAHZSR5hd1kdPUfulveN
+          plugin_music_played_at: yes
+          
