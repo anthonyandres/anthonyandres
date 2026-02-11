@@ -21,3 +21,6 @@ jobs:
           plugin_code: yes
           plugin_code_languages: javascript, typescript
           plugin_code_load: 400
+          filename: metrics.plugin.music.playlist.spotify.svg
+          plugin_music: yes
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/6LGAHZSR5hd1kdPUfulveN
