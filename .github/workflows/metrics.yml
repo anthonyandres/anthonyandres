@@ -18,9 +18,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
-          plugin_code: yes
-          plugin_code_languages: javascript, typescript
-          plugin_code_load: 400
           filename: metrics.plugin.music.playlist.spotify.svg
           plugin_music: yes
           plugin_music_token: ${{secrets.SPOTIFY_SECRET}}
