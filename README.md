@@ -1,1 +1,1 @@
-![listening](https://spotify-live-banner-liard.vercel.app/?adaptive=true&recently_playing=true)
+![listening](https://spotify-live-banner-liard.vercel.app/?adaptive=true&recently_playing=true&blur=true)
