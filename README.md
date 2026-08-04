@@ -1,5 +1,5 @@
 <!--
-[Metrics](/metrics.plugin.music.playlist.spotify.svg)
+![Metrics](/metrics.plugin.music.playlist.spotify.svg)
 -->
 
 <!--
